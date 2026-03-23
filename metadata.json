@@ -1,0 +1,5 @@
+{
+  "name": "PowerGlide Slow Query Check",
+  "description": "An interactive assessment to diagnose ServiceNow query performance issues.",
+  "requestFramePermissions": []
+}
